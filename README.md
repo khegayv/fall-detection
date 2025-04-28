@@ -68,6 +68,14 @@ All models were evaluated using:
 
 ---
 
+## 📦 Installation
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/khegayv/fall-detection.git
+cd fall-detection
+pip install -r requirements.txt
 ## 📊 Results
 - Fall detection achieved over **93% accuracy** with lightweight traditional ML models.
 - Best performing models are suitable for deployment in real-world systems.
